@@ -12,12 +12,12 @@ DAC LATAM, Una Organización Autónoma Digital-Distribuida-Descentralizada Latin
 - El génesis será lanzado en aproximadamente 1 mes de la publicación de este "Lite Paper/Manifiesto"  en la red principal de EOS, por ahora estaremos haciendo experimentos con los parámetros del DAC en jungle testnet. Usaremos, "DAC FACTORY", hecho por "eosDAC" como principal infraestructura inicial y estaremos evaluando la posibilidad de implementar sistemas de compatibilidad entre cadenas para poder desplegar la infraestructura del DAC en varias diferentes cadenas de bloque.
 
 
-Cantidad Máxima de Tokens: "21,000,000"
-Protocolo de Emisión: "Prueba de Trabajo Humano"
-Custodios Genesis: 11
-Poder de Votación por Custodio: 20
-Propuestas: Custodios / Otros DACs Custodios
-Periodo de Votación: 7 días.
+- Cantidad Máxima de Tokens: "21,000,000"
+- Protocolo de Emisión: "Prueba de Trabajo Humano"
+- Custodios Genesis: 11
+- Poder de Votación por Custodio: 20
+- Propuestas: Custodios / Otros DACs Custodios
+- Periodo de Votación: 7 días.
 
 
 
